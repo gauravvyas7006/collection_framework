@@ -39,6 +39,8 @@ public class ArrayLists {
         System.out.println(noo);
 
         System.out.println(noo.get(3));
+        System.out.println(noo.remove(10));
+        System.out.println(noo);
 
     }
 
